@@ -495,6 +495,10 @@ export default {
               },
               {
                 label: "默认1",
+                value: "https://raw.githubusercontent.com/chenzai666/sub-ini/refs/heads/main/new_config.ini"
+              },
+              {
+                label: "默认2",
                 value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
@@ -1420,6 +1424,7 @@ export default {
   }
 };
 </script>
+
 
 
 
